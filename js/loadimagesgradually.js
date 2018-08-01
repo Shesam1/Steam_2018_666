@@ -10,6 +10,7 @@ Array.prototype.delayedForEach = function(callback, timeout, thisArg) {
   };
   
   function delayImage(image) {
+    console.log(image);
     var element = document.createElement('img');
     element.setAttribute('src', image);
     document.getElementById('images').appendChild(element);
@@ -28,8 +29,9 @@ Array.prototype.delayedForEach = function(callback, timeout, thisArg) {
       'https://media.giphy.com/media/9GIihh8E25Gfnsd0im/giphy.gif',
       'https://media.giphy.com/media/5xtDarDQqitychRz27K/giphy.gif'
     ];
+
+    console.log('Putting these images on page: ');
     imageList.delayedForEach(delayImage, 2000);
-  
   }
   window.onload = imageShow
   
