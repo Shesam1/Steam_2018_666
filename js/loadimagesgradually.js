@@ -27,7 +27,19 @@ Array.prototype.delayedForEach = function(callback, timeout, thisArg) {
       'https://media.giphy.com/media/3og0IMJcSI8p6hYQXS/giphy.gif',
       'https://media.giphy.com/media/qXexawbjsqK88/giphy.gif',
       'https://media.giphy.com/media/9GIihh8E25Gfnsd0im/giphy.gif',
-      'https://media.giphy.com/media/5xtDarDQqitychRz27K/giphy.gif'
+      'https://media.giphy.com/media/5xtDarDQqitychRz27K/giphy.gif',
+      'https://media.giphy.com/media/1k2YhdutgkQzJWnsyp/giphy.gif',
+      'https://media.giphy.com/media/1ykDc5R1XmIzPXaNz2/giphy.gif',
+      'https://media.giphy.com/media/kanT1ZarQwtI4/giphy.gif',
+      'https://media.giphy.com/media/7E8UUn3jg36aDEWdBO/giphy.gif',
+      'https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif',
+      'https://im5.ezgif.com/tmp/ezgif-5-820a7c0856.gif',
+      'https://media.giphy.com/media/58FDuiRsLPfmpd1U6X/giphy.gif',
+      'https://media.giphy.com/media/AmDzMmCJZABsk/giphy.gif',
+      'https://media.giphy.com/media/3j0Jexiqs4Xz9dHotq/giphy.gif',
+      'https://media.giphy.com/media/hyMFaxhuQkZTq/giphy.gif',
+      'https://media.giphy.com/media/xTiTnLWl6ftNuZAe8E/giphy.gif',
+      'https://media.giphy.com/media/upg0i1m4DLe5q/giphy.gif'
     ];
 
     console.log('Putting these images on page: ');
